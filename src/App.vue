@@ -1,10 +1,10 @@
 <script setup lang="ts">
 
-import Header from "@/components/UI/Header.vue";
+import Home from "@/views/Home.vue";
 </script>
 
 <template>
-  <Header/>
+  <Home />
 </template>
 
 <style scoped>
